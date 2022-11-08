@@ -6,3 +6,9 @@ int main() { //main() is the function entry point
    return 0; // termination of program
             }
 
+
+
+//High Level and Low Level Language
+// low level - h/w closed
+// high level - logical
+// c cpp is deals with the hardware with any computer system so low level lang.
