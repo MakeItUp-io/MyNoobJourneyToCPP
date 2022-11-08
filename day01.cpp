@@ -1,3 +1,4 @@
+//basic structure of cpp
 #include <iostream> //iostream stands for standard input-output stream. This header file contains definitions of objects like cin, cout, cerr, etc.
 //using namespace std; either std::
 int main() { //main() is the function entry point
